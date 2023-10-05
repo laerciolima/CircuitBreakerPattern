@@ -1,5 +1,5 @@
 
-```markdown
+
 # Exemplo de Implementação de Circuit Breaker com Polly em .NET 6
 
 Este é um projeto de exemplo que demonstra como implementar um circuit breaker usando a biblioteca Polly em um aplicativo .NET 6.
@@ -51,4 +51,3 @@ Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em c
 - Nome: Laercio Lima
 - Email: llaercio.lima@gmail.com
 - GitHub: [seu-usuario](https://github.com/seu-usuario)
-```
