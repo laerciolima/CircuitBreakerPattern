@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/test"
+  },
+  "response": {
+    "status": 503,
+    "body": "Response OK",
+    "headers": {
+        "Content-Type": "text/plain"
+    }
+  }
+}
